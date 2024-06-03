@@ -35,7 +35,7 @@ The Nalanda Library Management app is a web application built with Node.js. It f
 
 ## Usage
   
-Visit http://localhost:3000 in your browser.
+Visit http://localhost:5000 in your browser.
 
 Register a new account or log in.
 
